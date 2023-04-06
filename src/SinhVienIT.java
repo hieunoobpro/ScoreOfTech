@@ -2,6 +2,7 @@ public class SinhVienIT extends SinhVienTechMaster{
     private double java;
     private double html;
     private double css;
+
     @Override
     public double getDiem() {
         return  (2*java+html+css)/4;

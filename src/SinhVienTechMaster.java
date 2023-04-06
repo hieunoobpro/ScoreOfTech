@@ -1,9 +1,7 @@
 
-
 public abstract class  SinhVienTechMaster {
     private String name;
     private String subject;
-
     public abstract double getDiem();
 
     public SinhVienTechMaster() {
